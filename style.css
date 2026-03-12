@@ -23,7 +23,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: rgb(224, 114, 114);
     text-align: center;
     position: relative;
 }
@@ -36,7 +36,7 @@ img {
 
 /* nice big font on a banner style background */
 .topic-title{
-    color: white;
+    color: rgb(224, 114, 114);
     font-size: 2em;
     padding: 0.1em 3em;
     background-color: red(71, 71, 71);
@@ -56,7 +56,7 @@ img {
 /* Styling for the individual topic cards rounded edges background color and a drop shadow */
 .topic-card{
     background-color: red(71, 71, 71);
-    color: white;
+    color: rgb(224, 114, 114);
     padding: 1em;
     border-radius: 0.5em;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
