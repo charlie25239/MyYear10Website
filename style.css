@@ -36,10 +36,10 @@ img {
 
 /* nice big font on a banner style background */
 .topic-title{
-    color: gray(224, 114, 114);
+    color: white(224, 114, 114);
     font-size: 2em;
     padding: 0.1em 3em;
-    background-color: red(71, 71, 71);
+    background-color: gray(71, 71, 71);
 }
 
 /* Three column grid with a nice big gap */
